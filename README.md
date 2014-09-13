@@ -18,3 +18,5 @@ You will find in target directory: palindrome.jar
 Usage:
 
 `java -jar palindrome.jar <String>`
+
+https://travis-ci.org/sbilello/palindrome.svg?branch=master
