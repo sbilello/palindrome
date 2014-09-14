@@ -1,4 +1,4 @@
-# Coding Challenge - Sergio Bilello #
+# Coding Challenge #
 
 This solution is a modified implementation of the Manacher’s Algorithm
 Time Complexity O(N)
